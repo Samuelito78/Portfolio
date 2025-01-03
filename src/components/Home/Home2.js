@@ -5,7 +5,7 @@ import {
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import Tilt from "react-parallax-tilt";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/daftpunk.png";
 
 function Home2() {
   return (
